@@ -395,3 +395,14 @@ button:focus {
     border: 2px solid white;
   }
 }
+
+:root {
+    --primary-color: #0d47a1; /* Deep Blue */
+    --secondary-color: #1565c0; /* Medium Blue */
+    --background-color: #f5f7fa; /* Light Blue-Gray */
+    --header-bg: #ffffff; /* White */
+    --link-color: #ff6f00; /* Amber/Orange Accent */
+    --text-color: #333;
+    --light-text-color: #666;
+    --border-color: #e0e0e0;
+}
