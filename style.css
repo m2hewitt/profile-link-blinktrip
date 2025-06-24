@@ -397,12 +397,12 @@ button:focus {
 }
 
 :root {
-    --primary-color: #0d47a1; /* Deep Blue */
-    --secondary-color: #1565c0; /* Medium Blue */
-    --background-color: #f5f7fa; /* Light Blue-Gray */
-    --header-bg: #ffffff; /* White */
-    --link-color: #ff6f00; /* Amber/Orange Accent */
-    --text-color: #333;
-    --light-text-color: #666;
-    --border-color: #e0e0e0;
+    --primary-color: #D4A373; /* Terracota Light */
+    --secondary-color: #4A5759; /* Slate Gray */
+    --background-color: #FDFCDC; /* Cream */
+    --header-bg: #FFFFFF; /* White */
+    --link-color: #A98467; /* Muted Brown */
+    --text-color: #3D405B; /* Dark Blue-Gray */
+    --light-text-color: #6c757d; /* Lighter Gray */
+    --border-color: #E0E0E0;
 }
